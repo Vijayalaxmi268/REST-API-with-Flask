@@ -1,0 +1,13 @@
+{
+  "Task": "Create a REST API that manages user data",
+  "Objective": "Build a Flask API with CRUD operations for user management.",
+  "Tools": ["Python", "Flask", "Curl"],
+  "Endpoints": {
+    "GET /users": "Retrieve all users",
+    "GET /users/<id>": "Retrieve specific user",
+    "POST /users": "Add new user",
+    "PUT /users/<id>": "Update user",
+    "DELETE /users/<id>": "Delete user"
+  },
+  "Outcome": "Understand API fundamentals and CRUD operations using Flask."
+}
